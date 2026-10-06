@@ -1,0 +1,6 @@
+[
+  {"id":"mill-worksteps","program":"EZ-MILL","group":"Programma opbouwen","title":"Werken met worksteps","summary":"Een 2,5D-programma opbouwen en voorbereiden op posten.","file":"/kennis/ez-mill/worksteps.md"},
+  {"id":"mill-post","program":"EZ-MILL","group":"Posten","title":"Post en uitvoer controleren","summary":"Begrijp waar de post in je werkwijze past.","file":"/kennis/ez-mill/post.md"},
+  {"id":"dnc-edit","program":"EZ-DNC","group":"Programma controleren","title":"G-code controleren en aanpassen","summary":"Controleer de gegenereerde regels voordat je verstuurt.","file":"/kennis/ez-dnc/controleren.md"},
+  {"id":"dnc-send","program":"EZ-DNC","group":"Versturen naar machine","title":"Programma naar de machine sturen","summary":"Volg je overdrachtsstap en controleer de machine-instellingen.","file":"/kennis/ez-dnc/overdracht.md"}
+]

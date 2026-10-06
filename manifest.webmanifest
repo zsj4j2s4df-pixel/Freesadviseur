@@ -1,0 +1,11 @@
+{
+  "name": "Freesadviseur",
+  "short_name": "Freesadvies",
+  "description": "Praktische hulp voor EZ-MILL Express en EZ-DNC Express.",
+  "lang": "nl-NL",
+  "start_url": "/#vraag",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#006bd5",
+  "icons": [{"src":"/icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
