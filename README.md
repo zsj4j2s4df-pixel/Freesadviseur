@@ -25,7 +25,7 @@ Open daarna `http://localhost:8788`. In deze eenvoudige lokale preview werkt de 
 1. Maak in je OpenAI-platform een API-sleutel.
 2. Open in Cloudflare de Pages-app → **Settings** → **Variables and Secrets**.
 3. Voeg `OPENAI_API_KEY` toe als **Secret**. Plak de waarde alleen in Cloudflare; zet hem nooit in `app.js`, GitHub of een screenshot.
-4. Voeg `MODEL` toe als gewone variabele, bijvoorbeeld `gpt-5.4-mini`. De standaard in de Function is `gpt-5.4-mini`; kies een model dat volgens de actuele OpenAI API-documentatie afbeeldingsinvoer ondersteunt.
+4. Voeg `MODEL` toe als gewone variabele, bijvoorbeeld `gpt-6-luna`. De standaard in de Function is `gpt-6-luna`; kies een model dat volgens de actuele OpenAI API-documentatie afbeeldingsinvoer ondersteunt.
 5. Start een nieuwe deployment zodat de Function de instellingen gebruikt.
 6. Stel voor openbaar delen een Cloudflare rate-limit- of WAF-regel in op /api/ask om misbruik en onverwacht API-gebruik te beperken.
 
