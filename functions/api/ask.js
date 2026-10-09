@@ -1,4 +1,4 @@
-const DEFAULT_MODEL = 'gpt-5.4-mini';
+const DEFAULT_MODEL = 'gpt-6-luna';
 const MAX_TEXT = 50000;
 const MAX_IMAGE_CHARS = 7_000_000;
 
